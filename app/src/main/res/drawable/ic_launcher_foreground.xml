@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top architectural drafting desk facet (warm oak / terracotta) -->
+    <path
+        android:fillColor="#E56B38"
+        android:pathData="M54,28 L76,40.5 L54,53 L32,40.5 Z" />
+    <!-- Left architectural facet (warm alabaster) -->
+    <path
+        android:fillColor="#F3F0E8"
+        android:pathData="M32,43 L52.5,55 L52.5,79 L32,67 Z" />
+    <!-- Right architectural facet (pewter stone) -->
+    <path
+        android:fillColor="#8C867C"
+        android:pathData="M76,43 L55.5,55 L55.5,79 L76,67 Z" />
+    <!-- Center hardware LED diamond (matte charcoal) -->
+    <path
+        android:fillColor="#181816"
+        android:pathData="M54,35 L64,40.5 L54,46 L44,40.5 Z" />
+    <!-- Active studio beacon dot (sage emerald) -->
+    <path
+        android:fillColor="#53A376"
+        android:pathData="M54,38 L58.5,40.5 L54,43 L49.5,40.5 Z" />
+</vector>

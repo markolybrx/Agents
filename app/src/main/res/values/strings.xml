@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AgentDesk</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_plans">Plans</string>
+    <string name="nav_workspace">Workspace</string>
+    <string name="nav_keys">Keys</string>
+    <string name="studio_office_title">Live Studio Office</string>
+    <string name="studio_office_subtitle">13-Agent Isometric Command Floor</string>
+    <string name="upload_markdown_plan">Upload .md Plan</string>
+    <string name="use_blueprint_template">Blueprint Template</string>
+    <string name="run_planner_skill">AI Planner Skill</string>
+    <string name="export_project_zip">Export Project</string>
+    <string name="export_dialog_eyebrow">PROJECT ARCHIVE  /  LOCAL ZIP</string>
+    <string name="export_dialog_save_as">Save ZIP As…</string>
+    <string name="export_dialog_quick_download">Download</string>
+    <string name="content_desc_export_project">Export project as ZIP archive</string>
+    <string name="critical_gate_title">Manual Approval Required</string>
+    <string name="content_desc_office_drawer">Toggle animated agent office drawer</string>
+    <string name="content_desc_upload_md">Upload Markdown project plan</string>
+    <string name="content_desc_copy_prompt">Copy prompt to clipboard</string>
+    <string name="content_desc_toggle_key_visibility">Toggle API key visibility</string>
+</resources>

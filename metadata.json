@@ -1,0 +1,6 @@
+{
+  "name": "AgentDesk",
+  "description": "13-agent PWA coding agency workstation with 4-key Gemini pooling, Markdown plan uploads, real-time token telemetry, and an animated isometric studio office.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
